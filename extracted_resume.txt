@@ -1,0 +1,50 @@
+Kavya H S
++917619390819 ◇hskavya934@gmail.com ◇Davanagere, 577004, India ◇LinkedIn
+SUMMARY
+Strategic and results-driven final-year Computer Science and Engineering student currently pursuing an AI-Powered
+Full Stack Development internship. Hands-on experience in Python, Django, HTML, CSS, JavaScript, PostgreSQL,
+and Machine Learning frameworks including Scikit-learn, TensorFlow, and PyTorch. Proven ability to design,
+develop, and deploy end-to-end AI-enabled web applications, collaborate effectively in teams, and deliver scalable
+solutions to real-world problems.
+EXPERIENCE
+AI-Powered Full Stack Engineer
+Mevi TechnologiesFeb '26 — Present
+Bangalore, India
+Developing responsive full-stack web applications using Python, HTML5, CSS3, JavaScript, and Django.
+Designing and managing databases with PostgreSQL, implementing authentication and role-based access
+control.
+Building AI-powered features using libraries such as NumPy, Pandas, Scikit-learn, TensorFlow, and PyTorch.
+Performing data preprocessing, visualization, and applying Machine Learning techniques to real-world datasets.
+Working on multiple mini projects and integrated Full-Stack + AI applications to enhance practical
+development skills.
+EDUCATION
+Bachelor of Engineering in Computer Science Engineering, University BDT College of
+Engineering (GPA: GPA: 8.9)2022 — Present
+Davangere, India
+Class 10th, Sri Siddeshwara High School (GPA: Percentage-97.12)2019 — 2020
+Davanagere, India
+Class 12th, Maganur Basappa Science PU College (GPA: Perentage-92.67)2020 — 2022
+Davanagere, India
+CERTIFICATIONS
+Programming in Java, NPTEL May '25
+Data Science & Analytics , HP Foundation Jul '25
+SQL Bootcamp, NSDC Aug '10
+PROJECTS
+Employee Management System 2024
+The EMP is a software application designed to streamline the management of employee information within an
+organization.
+It allows administrators to add, update, view, delete employee records efficiently.
+Key features include employee profile management, attendance tracking, and salary processing.
+The system ensures secure access through user authentication and it helps reduce manual workload and
+improves organizational productivity.
+Schizophrenia Detection and Care Recommendation System 2025
+Built an ML model to detect Schizophrenia from symptom and behavioural data.
+Preprocessed data and trained algorithms like SVM, KNN, Decision tree and Random Forest for prediction.
+Created a simple interface to take user inputs and show risk level instantly.
+Added personalized care recommendations based on prediction results.
+SKILLS
+Programming LanguagesJava, Basic Python
+Web TechnologiesHTML, CSS, React, JavaScript
+DatabaseSQL, NoSQL
+Soft SkillsProject Management, Team Collaboration, Problem-Solving, Communication, Adaptability
+ToolsExcel, MySQL, PowerBI
